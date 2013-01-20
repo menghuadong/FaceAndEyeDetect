@@ -1,4 +1,4 @@
 FaceAndEyeDetect
 ================
 
-OpenCv_FaceAndEyeDetect
+Opencv Study --FaceAndEyeDetect
